@@ -1,0 +1,7 @@
+@inproceedings{da2023automlgpt,
+  title={AutoML-GPT: Large Language Model for AutoML},
+  author={Tsai, Yun-Da and Tsai, Yu-Che and Huang, Bo-Wei and Yang, Chun-Pai and Lin, Shou-De},
+  year={2023},
+  maintitle = {ICML},
+  booktitle = {Neural Conversational AI Workshop},
+}
